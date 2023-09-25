@@ -3,7 +3,7 @@
     background-repeat: no-repeat; /* Prevent repeating the image */
     background-position: center center; /* Center the background image */
     height: 950px; /* Adjust the container height as needed */
-    color: white;
+    color: rgb(239, 237, 237);
   }
 
   .banner-resized {
